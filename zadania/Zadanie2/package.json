@@ -1,0 +1,14 @@
+{
+  "name": "zadanie2",
+  "version": "1.0.0",
+  "description": "Zadanie 2",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sebastian Sztankowski 313061",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.1.0"
+  }
+}
