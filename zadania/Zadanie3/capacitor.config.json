@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "Zadanie 3",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
